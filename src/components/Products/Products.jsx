@@ -1,7 +1,7 @@
 import React from "react";
 import Grid from '@mui/material';
 
-import Product from './Product/Product';
+import Product from './components/Products/Product/Product';
 
 const products = [
     { id: 1, name: 'TestShoes', description: 'Shoes that let you walk on walls.' },
